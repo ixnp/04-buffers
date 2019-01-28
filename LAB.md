@@ -16,8 +16,8 @@
 
 ## Assignment 2: Create an `<article>`
 * Using only buffers and bit manipulation, read the file `pair-programming.txt` from the `files` folder and make the following transformations:
-  * Wrap all of the content within `<article>` tags
-  * Wrap each section title in an `<h2>`
+  * Wrap all of the content within `<article>` tags  x
+  * Wrap each section title in an `<h2>`  
   * Convert each sentence in each paragraph into a list item.
   * Convert each of the numbered sections in the bottom of the document to `<h3>` tags.
 * You may not use .toString()
