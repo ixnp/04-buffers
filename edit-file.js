@@ -18,8 +18,6 @@ function buffAppend(str){
 console.log(buffAppend(nameStr))
 
 
-
-
 fs.writeFile('loop.js', buffAppend(nameStr), function (err) {
     if (err) throw err;
   })
